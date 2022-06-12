@@ -11,7 +11,7 @@ public class StudentQuery
         //Get Student Query of 5 Record.
         List<Student__c> students = new List<Student__c>();
     	students = [Select Id,Name,Student_Name__c,Roll_Number__c,Contact_No__c from Student__c];
-    	for(Student__c s:student)
+    	for(Student__c s:students)
     	{
         	System.debug('Record of Student:'+ s);    
    	    }
