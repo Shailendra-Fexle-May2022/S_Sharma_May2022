@@ -7,6 +7,8 @@
 		<members>HelloWorld</members>
 		<members>DreamWorld</members>
 		<members>DemoEven</members>
+		<members>DownTriangleStarPatternClass</members>
+        <members>LeftPascalClass</members>
         <name>ApexClass</name>
     </types>
     <types>
