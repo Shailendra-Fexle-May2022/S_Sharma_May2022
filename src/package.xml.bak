@@ -9,6 +9,8 @@
 		<members>DemoEven</members>
 		<members>DownTriangleStarPatternClass</members>
         <members>LeftPascalClass</members>
+		<members>HelloWorldTestClass</members>
+        <members>MyHelloWorld</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -118,6 +120,10 @@
 	<types>
         <members>EvenNumber</members>
         <name>CustomApplication</name>
+    </types>
+	<types>
+        <members>*</members>
+        <name>ApexTrigger</name>
     </types>
     <version>53.0</version>
 </Package>
