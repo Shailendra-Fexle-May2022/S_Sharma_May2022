@@ -6,6 +6,7 @@
         <members>Teacher</members>
 		<members>HelloWorld</members>
 		<members>DreamWorld</members>
+		<members>DemoEven</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -68,6 +69,7 @@
         <members>Student__c</members>
 		<members>Hello__c</members>
 		<members>Dream_World__c</members>
+		<members>DemoEven__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -82,6 +84,7 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
+		<members>DemoEven__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -105,6 +108,14 @@
         <members>Student__c.Registrar_Layout</members>
         <members>Student__c.Teacher</members>
         <name>RecordType</name>
+    </types>
+	<types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+	<types>
+        <members>EvenNumber</members>
+        <name>CustomApplication</name>
     </types>
     <version>53.0</version>
 </Package>
