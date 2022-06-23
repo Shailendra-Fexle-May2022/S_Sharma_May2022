@@ -74,6 +74,7 @@
 		<members>Hello__c</members>
 		<members>Dream_World__c</members>
 		<members>DemoEven__c</members>
+		<members>Book__c</members>
         <name>CustomObject</name>
     </types>
     <types>
