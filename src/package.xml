@@ -11,6 +11,7 @@
         <members>LeftPascalClass</members>
 		<members>HelloWorldTestClass</members>
         <members>MyHelloWorld</members>
+		<members>DataType</members>
         <name>ApexClass</name>
     </types>
     <types>
