@@ -19,6 +19,9 @@
         <members>DateType</members>
         <members>PrimitiveData</members>
         <members>StudentPercentage</members>
+	<members>OperatorPrecedence</members>
+        <members>SafeNavigationOperator</members>
+        <members>TypesOfOperator</members>
         <name>ApexClass</name>
     </types>
     <types>
