@@ -22,6 +22,15 @@
 	<members>OperatorPrecedence</members>
         <members>SafeNavigationOperator</members>
         <members>TypesOfOperator</members>
+		<members>AccessModifier</members>
+        <members>CallByReference</members>
+        <members>CallByValue</members>
+        <members>ChildMarker</members>
+        <members>ConditionalAndLoop</members>
+        <members>ConstructorOverloding</members>
+        <members>OverloadingClass</members>
+        <members>Overriding</members>
+        <members>ParentMarker</members>
         <name>ApexClass</name>
     </types>
     <types>
