@@ -3,6 +3,17 @@
     <types>
 		<members>Country</members>
         <members>DmlInsertClass</members>
+		<members>AcessClassOfInstanceOfClass</members>
+        <members>Child</members>
+        <members>Child2ClassOfInstanceOfClass</members>
+        <members>ChildClassOfInstanceOfClass</members>
+        <members>CustomerPurchaseOrder</members>
+        <members>EmployeePurchaseOrder</members>
+        <members>InstanceOfClass</members>
+        <members>ProcessPurchaseOrder</members>
+        <members>PurchaseOrder</members>
+        <members>SuperClass</members>
+        <members>ThisKeyWord</members>
         <members>Registrar</members>
         <members>StudentQuery</members>
         <members>Teacher</members>
@@ -21,7 +32,7 @@
         <members>DateType</members>
         <members>PrimitiveData</members>
         <members>StudentPercentage</members>
-	<members>OperatorPrecedence</members>
+		<members>OperatorPrecedence</members>
         <members>SafeNavigationOperator</members>
         <members>TypesOfOperator</members>
 		<members>AccessModifier</members>
@@ -76,8 +87,8 @@
         <members>Student__c.Stream__c</members>
         <members>Student__c.Student_Contact_No__c</members>
         <members>Student__c.Student_Name__c</members>
-	<members>Hello__c.world__c</members>
-	<members>Dream_World__c.Dream_World__c</members>
+		<members>Hello__c.world__c</members>
+		<members>Dream_World__c.Dream_World__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -93,17 +104,17 @@
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
         <members>Student__c</members>
-	<members>Hello__c</members>
-	<members>Dream_World__c</members>
-	<members>DemoEven__c</members>
-	<members>Book__c</members>
+		<members>Hello__c</members>
+		<members>Dream_World__c</members>
+		<members>DemoEven__c</members>
+		<members>Book__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Student__c</members>
-	<members>Hello__c</members>
-	<members>Dream_World__c</members>
-	<members>College__c</members>
+		<members>Hello__c</members>
+		<members>Dream_World__c</members>
+		<members>College__c</members>
         <members>Employee__c</members>
         <members>Pan_Card__c</members>
         <members>Student1__c</members>
@@ -111,14 +122,14 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
-	<members>DemoEven__c</members>
+		<members>DemoEven__c</members>
         <name>CustomTab</name>
     </types>
     <types>
         <members>Student__c-Registrar</members>
         <members>Student__c-Student Layout</members>
         <members>Student__c-Teacher</members>
-	<members>Account-Account Layout</members>
+		<members>Account-Account Layout</members>
         <members>College__c-College Layout</members>
         <members>Contact-Contact Layout</members>
         <members>Employee__c-Employee Layout</members>
