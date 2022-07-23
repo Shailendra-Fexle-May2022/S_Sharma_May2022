@@ -2,6 +2,10 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
 		<members>Country</members>
+		<members>DMLOperation</members>
+        <members>DataBaseDmlOperation</members>
+        <members>ExceptionHandling</members>
+        <members>RelatingRecordsExternalID</members>
         <members>DmlInsertClass</members>
 		<members>AcessClassOfInstanceOfClass</members>
         <members>Child</members>
