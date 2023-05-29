@@ -31,7 +31,7 @@ public with sharing class AccessModifier {
         System.debug('Call public variable::'+classSection); //Call public variable::B
         AccessModifier call = new AccessModifier();
         System.debug('Call private integer variable::'+call.rollNo);//Call private integer variable::10
-        System.debug('Call proteted variable=>'+call.name); //Call proteted variable=>Jorge
+        
        
     }
 }
